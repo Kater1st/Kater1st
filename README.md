@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tinashe Katenaire</h1>
 <h3 align="center">A Software Engineer from Zimbabwe</h3>
 
+- 🧑‍🎓 Bachelor of Applied Science in Software Development, Brigham Young University Idaho (USA)
+
 - 🔭 I’m currently working on **Networking**
 
 - 🌱 I’m currently learning **Rust**
